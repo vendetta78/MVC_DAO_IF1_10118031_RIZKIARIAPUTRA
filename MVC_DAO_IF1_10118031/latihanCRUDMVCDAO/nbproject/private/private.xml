@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/model/PelangganModel.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/view/PelangganView.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/event/PelangganListener.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/impl/pelangganDAOIMPL.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/error/PelangganException.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/database/kingsbarbershopDatabase.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/controller/PelangganController.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/entity/pelanggan.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/main/Main.java</file>
+            <file>file:/C:/Users/Rifqi%20Ramadhan/Desktop/TUGAS%20IKY/MVC_DAO_IF1_10118040-master/latihanCRUDMVCDAO/src/latihanmvcdao/service/PelangganDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
